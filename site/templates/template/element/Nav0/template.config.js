@@ -28,7 +28,7 @@ export default {
             href: '#',
             children: [
               {
-                children: '导航一',
+                children: 'Banking Features',
                 name: 'text',
               },
             ],
@@ -91,33 +91,7 @@ export default {
             href: '#',
             children: [
               {
-                children: '导航二',
-                name: 'text',
-              },
-            ],
-          },
-        },
-        {
-          name: 'item2',
-          className: 'header0-item',
-          children: {
-            href: '#',
-            children: [
-              {
-                children: '导航三',
-                name: 'text',
-              },
-            ],
-          },
-        },
-        {
-          name: 'item3',
-          className: 'header0-item',
-          children: {
-            href: '#',
-            children: [
-              {
-                children: '导航四',
+                children: 'Help',
                 name: 'text',
               },
             ],
