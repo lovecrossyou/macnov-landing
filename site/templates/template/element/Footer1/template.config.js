@@ -34,7 +34,7 @@ export default {
             children: [
               {
                 name: 'content0',
-                children: 'Animation specification and components of Ant Design.',
+                children: 'Business credit cards made awesome.',
               },
             ],
           },
@@ -45,29 +45,34 @@ export default {
           md: 6,
           className: 'block',
           title: {
-            children: '产品',
+            children: 'Platform',
           },
           childWrapper: {
             children: [
               {
                 name: 'link0',
                 href: '#',
-                children: '产品更新记录',
+                children: 'Budget',
               },
               {
                 name: 'link1',
                 href: '#',
-                children: 'API文档',
+                children: 'Expenses',
               },
               {
                 name: 'link2',
                 href: '#',
-                children: '快速入门',
+                children: 'People & Team',
               },
               {
                 name: 'link3',
                 href: '#',
-                children: '参考指南',
+                children: 'Virtual cards',
+              },
+              {
+                name: 'link4',
+                href: '#',
+                children: 'Rewards',
               },
             ],
           },
@@ -78,19 +83,29 @@ export default {
           md: 6,
           className: 'block',
           title: {
-            children: '关于',
+            children: 'Company',
           },
           childWrapper: {
             children: [
               {
                 href: '#',
                 name: 'link0',
-                children: 'FAQ',
+                children: 'Security',
               },
               {
                 href: '#',
                 name: 'link1',
-                children: '联系我们',
+                children: 'Contact us',
+              },
+              {
+                href: '#',
+                name: 'link2',
+                children: 'Terms & Conditions',
+              },
+              {
+                href: '#',
+                name: 'link3',
+                children: 'Privacy Policy',
               },
             ],
           },
@@ -101,19 +116,24 @@ export default {
           md: 6,
           className: 'block',
           title: {
-            children: '资源',
+            children: 'Follow us',
           },
           childWrapper: {
             children: [
               {
                 href: '#',
                 name: 'link0',
-                children: 'Ant Design',
+                children: 'Facebook',
               },
               {
                 href: '#',
                 name: 'link1',
-                children: 'Ant Motion',
+                children: 'Twitter',
+              },
+              {
+                href: '#',
+                name: 'link2',
+                children: 'LinkedIn',
               },
             ],
           },
